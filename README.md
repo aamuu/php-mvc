@@ -1,5 +1,9 @@
 # PHP MVC Boilerplate code
 
-You can use it to create your own framework
+This is a simple MVC framework for building web applications in PHP. It's free and open-source.
 
 -Post model is provided as example
+
+#### TODO
+
+-Change RewriteBase in public folder
