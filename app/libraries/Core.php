@@ -49,7 +49,6 @@ class Core
 
         //call a callback with array parameters
         call_user_func_array([$this->currentController, $this->currentMethod], $this->params);
-
     }
 
     public function getUrl()
